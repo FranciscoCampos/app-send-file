@@ -12,7 +12,7 @@ function verCarpeta(){
                  <span class='glyphicon glyphicon-folder-open'></span> $elemento </a></li>";
               }else{
 
-                echo $listar ="<li><a href='archivos/$elemento' target='_blank'>$elemento</a></li>";
+                echo $listar ="<li><a href='archivos/$elemento' target='_blank'> $elemento</a></li>";
               }
             }
        }

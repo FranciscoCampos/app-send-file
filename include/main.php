@@ -1,7 +1,8 @@
 
 <div class="menu" id="verMenu">
 	<span class="glyphicon glyphicon-tasks" id="icon_menu" title="Menu"></span>
-	<img id="logo" src="img/AppSendFile.png" alt="">
+	<!-- <img id="logo" src="img/AppSendFile.png" alt=""> -->
+	<h3 id="tituloApp">App Send File</h3>
 </div>
 
  <div class="lista" id="lista" style="display:none">

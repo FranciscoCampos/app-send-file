@@ -5,6 +5,9 @@
 	<title>App Send File...</title>
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/stylus.css">
+  <link rel="shortcut icon" href="img/favicon1.ico" type="image/x-icon">
+  <link rel="icon" href="img/favicon1.ico" type="image/x-icon">
+
 </head>
 <body>
 
